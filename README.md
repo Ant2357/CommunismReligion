@@ -37,7 +37,7 @@ Open Elin’s console and follow these steps:
 
 Using this method, you can start following Communism right away.
 
----
+<br>
 
 Elin のコンソールを開いて
 
@@ -60,4 +60,3 @@ Elin のコンソールを開いて
 
 ## License
 [MIT license](https://en.wikipedia.org/wiki/MIT_License)
-

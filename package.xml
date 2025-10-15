@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Meta>
+  <title>Communism Religion</title>
+  <id>communism_religion</id>
+  <author>Faize</author>
+  <builtin>false</builtin>
+  <loadPriority>100</loadPriority>
+  <version>0.23.213</version>
+  <tag>Religion,Communism,CWL</tag>
+  <description>This mod adds a new religion called Communism to Elin.</description>
+</Meta>

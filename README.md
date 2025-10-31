@@ -17,7 +17,7 @@
 Except for the bonuses to **Charm** and **Guns** (representing the communist element), the faith effects, apostles, and artifacts are identical to those of Yevan of Strife.  
 Therefore, you can treat it as the same faith as **Yevan of Strife** without any problem.
 
-魅力と銃にボーナスが付与される(共産主義要素)点を除き、信仰効果・使徒・アーティファクトは「戦禍のイーヴァン」と同一です。  
+魅力と銃にボーナスが付与される(共産主義要素)点を除き、信仰効果・使徒・アーティファクトは戦禍のイーヴァンと同一です。  
 そのため、戦禍のイーヴァンの信仰と同じものとして扱っていただいて問題ありません。
 
 ## How to Worship(信仰方法)

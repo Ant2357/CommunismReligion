@@ -1,4 +1,4 @@
-This mod adds a new religion called Communism to Elin.
+This mod adds a new [b]religion[/b] called [b]Communism[/b] to Elin.
 
 これは Elin に [b]共産主義[/b] という『[b]宗教[/b]』を追加する Mod です。
 [h2]Faith Effects(信仰効果)[/h2]
@@ -12,8 +12,8 @@ Revolution Altars will now generate within dungeons.Dive into a dungeon and sear
 [h2]If You Want to Worship Immediately(今すぐ信仰したい)[/h2]
 Open Elin’s console and follow these steps:
 [olist]
-[*]Type   
-[*]Keep typing  until a [b]Revolution Altar[/b] appears  
+[*]Type 「Cheat」  
+[*]Keep typing 「Spawn altar」 until a [b]Revolution Altar[/b] appears  
 [*]Offer your prayer at the Revolution Altar  
 [*]Conversion to [b]Communism[/b] complete
 [/olist]
@@ -27,3 +27,14 @@ Elin のコンソールを開いて
 [*]共産主義に改宗完了
 [/olist]
 上記の手法で、すぐに共産主義を信仰する事が出来ます。
+[h2]Required Mods(必須 Mod)[/h2]
+[list]
+[*]Custom Whatever Loader (required)  
+[*]必須 Mod として、Custom Whatever Loader が必要です。  
+[/list]
+[h2]Author[/h2]
+[list]
+[*]Ant2357
+[/list]
+[h2]License[/h2]
+[url=https://en.wikipedia.org/wiki/MIT_License]MIT license[/url]

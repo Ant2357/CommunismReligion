@@ -30,8 +30,8 @@ Dive into a dungeon and search for one to begin your faith.
 ## If You Want to Worship Immediately(今すぐ信仰したい)
 Open Elin’s console and follow these steps:
 
-1. Type `Cheat`  
-2. Keep typing `Spawn altar` until a **Revolution Altar** appears  
+1. Type 「Cheat」  
+2. Keep typing 「Spawn altar」 until a **Revolution Altar** appears  
 3. Offer your prayer at the Revolution Altar  
 4. Conversion to **Communism** complete
 

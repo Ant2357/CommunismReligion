@@ -3,7 +3,7 @@
 </h2>
 
 <div align="center">
-  <a href="#">
+  <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3596737042">
     <img alt="鎌と槌と十字架が描かれたドット絵" src="preview.jpg" width="200" height="200">
   </a>
 </div>
@@ -54,6 +54,11 @@ Elin のコンソールを開いて
 
 * 必須 Mod として、Custom Whatever Loader が必要です。  
 [Custom Whatever Loader](https://steamcommunity.com/workshop/filedetails/?id=3544010094 "Custom Whatever Loader")
+
+## URL: Steam Workshop::Communism Religion
+<a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3596737042">
+  <img alt="鎌と槌と十字架が描かれたドット絵" src="preview.jpg" width="200" height="200">
+</a>
 
 ## Author
 * Ant2357
